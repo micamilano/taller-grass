@@ -1,0 +1,4 @@
+apache-airflow==2.5.1
+GDAL==3.4.3
+earthaccess==0.5.3
+grass-session
